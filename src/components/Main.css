@@ -1,0 +1,15 @@
+                .ul {
+                    display: flex;
+                    justify-content: left;
+                    list-style-type: none;
+                    color: aquamarine;
+                }
+                
+                .li {
+                    text-decoration: none;
+                    color: white;
+                }
+                
+                .me {
+                    height: 10000px;
+                }
